@@ -1,0 +1,123 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Soy Joyce Fernandes. Persona ficticia para fines de vista previa :) Estoy trabajando con los frameworks front-end como Angular y React. Lo que está viendo ahora es un template de portafolio de Joyce-Fernandes. Si le gusta esta template de portafolio, asegúrese ⭐ de que el repositorio sea más reconocible para otros usuarios. Gracias 💜",
+      "section_name": {
+        "about": "Sobre mí",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "3D IFC Visor",
+        "startDate": "2022",
+        "description": "Una de las primeras aplicaciones en las que estuve trabajando en mi pasantía. Tuve que desarrollar una implementación front-end para una aplicación que muestra modelos 3D de edificios conocidos. Este fue también mi primer proyecto en IFC.js. ¡He aprendido mucho!",
+        "images": [
+          "images/portfolio/animal-shelter/3D.png",
+          "images/portfolio/animal-shelter/visor.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-threejs-original",
+            "name": "Three.js"
+          },
+          {
+            "class": "devicon-vscode-plain",
+            "name": "VsCode"
+          }
+        ]
+      },
+      {
+        "title": "WebSite",
+        "startDate": "2022",
+        "description": "Proyecto creado en el periodo del curso Full-Stack .NET, donde aprendí a construir una aplicación web desde cero, partiendo solo de una idea y transformándola en un sitio 100% funcional. :)",
+        "images": [
+          "images/portfolio/photography/webmotorent.jpeg",
+          "images/portfolio/photography/login.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "E-commerce",
+        "startDate": "2022",
+        "description": "Proyecto responsive E-commerce para la empresa Worköholics. Este proyecto ha sido muy importante para nuestro desarrollo profesional. Y el resultado ha sido sorprendente.",
+        "images": [
+          "images/portfolio/adventure/workoshop-tienda-online (1)_Moment.jpg",
+          "images/portfolio/adventure/respon.png"
+        ],
+        "url": "https://github.com/Joyce-Fernandes",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ingreen Innovación",
+        "title": "JavaScript Developer",
+        "years": "2022",
+        "mainTech": [
+          "JavaScript Libraries"
+        ],
+        "technologies": [
+          "Three.js",
+          "IFC.js",
+          "JavaScript",
+          "Web-ifc-viewer",
+          "WebGL",
+          "Css",
+          "Html"
+        ]
+      },
+      {
+        "company": "Personal project",
+        "title": "Full-stack",
+        "years": "2022",
+        "mainTech": [
+          ".Net Core and Angular "
+        ],
+        "technologies": [
+          " C#",
+          "Microsoft SQL Server",
+          "Javascript", 
+          "HTML",
+           "CSS",
+          ".Net Core",
+           "Angular",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
